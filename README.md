@@ -1,3 +1,3 @@
-<h3>Simple app for scores counting.</h3>
-<br>Application made during "Web developer bootcamp" on Udemy.com
+# Score keeper
+<p>Application created as an excercise during 'Web Developer Bootcamp' on Udemy.com</p>
 <br><a href="https://aldonalis.github.io/Score-Keeper/">Prewiev</a>
